@@ -1,0 +1,9 @@
+.header {
+    display: inline-flex;
+    background-color: aqua;
+    width: auto;
+}
+.userPanel{
+    position: fixed;
+    right: 0;
+}
